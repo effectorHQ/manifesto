@@ -1,4 +1,4 @@
-# OpenClawHQ Manifesto
+# effectorHQ Manifesto
 
 [![English](https://img.shields.io/badge/read-English-1A1A1A)](./MANIFESTO.md) [![中文](https://img.shields.io/badge/阅读-中文版-E03E3E)](./MANIFESTO.zh.md) [![CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgray.svg)](./LICENSE)
 
@@ -10,7 +10,7 @@
 
 ---
 
-This is the founding document of [OpenClawHQ](https://github.com/OpenClawHQ) — an open community building skills, extensions, and developer tools for [OpenClaw](https://github.com/openclaw/openclaw) and the next generation of proactive AI.
+This is the founding document of [effectorHQ](https://github.com/effectorHQ) — an open community building skills, extensions, and developer tools for [OpenClaw](https://github.com/openclaw/openclaw) and the next generation of proactive AI.
 
 It describes why we exist, what we believe, and where we're going.
 
@@ -27,4 +27,4 @@ It describes why we exist, what we believe, and where we're going.
 
 Questions? Corrections? Fork this manifesto and send us a PR. This is a living document.
 
-<sub>&copy; 2026 OpenClawHQ Contributors. Licensed under <a href="./LICENSE">CC BY 4.0</a>.</sub>
+<sub>&copy; 2026 effectorHQ Contributors. Licensed under <a href="./LICENSE">CC BY 4.0</a>.</sub>
