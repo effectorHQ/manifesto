@@ -1,6 +1,6 @@
 # The Effector Manifesto
 
-We build hands for AI, demo first.
+We build hands for AI that moves first.
 
 Currently powering the OpenClaw ecosystem — designed for every AI runtime.
 
