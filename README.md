@@ -21,10 +21,6 @@ It describes why we exist, what we believe, and where we're going.
 
 ---
 
-**250K+** stars on OpenClaw &middot; **3,286+** skills on ClawHub &middot; **8K+** developers in Discord &middot; **500+** PRs merged daily
-
----
-
 Questions? Corrections? Fork this manifesto and send us a PR. This is a living document.
 
 <sub>&copy; 2026 effectorHQ Contributors. Licensed under <a href="./LICENSE">CC BY 4.0</a>.</sub>
