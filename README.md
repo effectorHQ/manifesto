@@ -4,7 +4,7 @@
 
 ---
 
-**We build hands for AI that moves first.**
+<sub>Part of the <a href="https://github.com/effectorHQ">effectorHQ</a> studio. We build hands for AI that moves first.</sub>
 
 我们为率先行动的 AI 打造双手。
 
