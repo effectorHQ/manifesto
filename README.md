@@ -1,6 +1,6 @@
 # effectorHQ Manifesto
 
-[![English](https://img.shields.io/badge/read-English-1A1A1A)](./MANIFESTO.md) [![中文](https://img.shields.io/badge/阅读-中文版-E03E3E)](./MANIFESTO.zh.md) [![CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgray.svg)](./LICENSE)
+[![English](https://img.shields.io/badge/read-English-1A1A1A)](./MANIFESTO.md) [![中文](https://img.shields.io/badge/阅读-中文版-E03E3E)](./MANIFESTO.zh.md) [![CC BY 4.0](https://img.shields.io/badge/license-CC%20BY%204.0-lightgray.svg)](./LICENSE.md)
 
 ---
 
@@ -23,8 +23,8 @@ It describes why we exist, what we believe, and where we're going.
 
 Questions? Corrections? Fork this manifesto and send us a PR. This is a living document.
 
-<sub>&copy; 2026 effectorHQ Contributors. Licensed under <a href="./LICENSE">CC BY 4.0</a>.</sub>
+<sub>&copy; 2026 effectorHQ Contributors. Licensed under <a href="./LICENSE.md">CC BY 4.0</a>.</sub>
 
 ## License
 
-This project is currently licensed under the Apache 2.0 License 。
+This project is currently licensed under the [Apache License, Version 2.0](LICENSE.md) 。

@@ -100,4 +100,4 @@ That's the work.
 
 **Questions? Corrections? Fork this manifesto and send us a PR. This is a living document.**
 
-Licensed under [CC-BY-4.0](./LICENSE)
+Licensed under [CC-BY-4.0](./LICENSE.md)
