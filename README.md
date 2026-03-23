@@ -24,3 +24,7 @@ It describes why we exist, what we believe, and where we're going.
 Questions? Corrections? Fork this manifesto and send us a PR. This is a living document.
 
 <sub>&copy; 2026 effectorHQ Contributors. Licensed under <a href="./LICENSE">CC BY 4.0</a>.</sub>
+
+## License
+
+This project is currently licensed under the Apache 2.0 License 。
